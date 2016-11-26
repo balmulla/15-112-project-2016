@@ -18,9 +18,14 @@
 #    24/11    22:49     24/11     02:30
 #    25/11    13:23     26/11     03:18
 ####################### SOURCES #############
-
-
-
+#Sprite 1
+#http://s1113.photobucket.com/user/scottpilgrimsprites/media/scott_guitar.gif.html?sort=6&o=6
+#Sprite 2  found in the comment section
+#http://www.neogaf.com/forum/showthread.php?t=1195023
+#music: Right places One republic cover by youtuber guitar on demand
+#music: let it go Edina, cover by 331Erock
+#booing: https://www.youtube.com/watch?v=rYAQN11a2Dc
+#cheering: https://www.youtube.com/watch?v=RaxVwD-HvNU
 
 ##########################  IMPORTS ##################
 
