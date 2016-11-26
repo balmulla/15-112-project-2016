@@ -93,7 +93,7 @@ def homeScreen():
     gameDisplay.fill(black)
     pygame.draw.rect(gameDisplay, mint, [100,0,600,display_height])
     font=pygame.font.SysFont(None,40)
-    song1= font.render("Click 'a' to choose Right Places" , True, black)
+    song1= font.render("Click 'a' to choose Right Moves" , True, black)
     gameDisplay.blit(song1,(102,50))
     song2 = font.render("Click 'b' to choose Let it gooo" , True, black)
     gameDisplay.blit(song2,(102,100))
