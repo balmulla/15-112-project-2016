@@ -458,6 +458,7 @@ while not gameExit:
                 if event.key == pygame.K_t:
                     #setting everything back to what it was
                     Score=0
+                    Combo=0
                     lives=3
                     allNotes=[]
                     gameScreen()
@@ -467,6 +468,7 @@ while not gameExit:
                 if event.key == pygame.K_b:
                     pygame.mixer.music.stop()
                     pygame.mixer.stop()
+                    Combo=0
                     Score=0
                     lives=3
                     allNotes=[]
