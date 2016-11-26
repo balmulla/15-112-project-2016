@@ -134,8 +134,9 @@ def characterScreen():
     Choice2 = font.render("Click 'f' for this one" , True, black)
     gameDisplay.blit(Choice2,(100,100))
     
-    Sprite_1(150,200,mint)
-    Sprite_2(350,200,mint)
+    gameDisplay.blit(S_1,(150,200))
+    gameDisplay.blit(SS_1,(350,200))
+
     play = font.render("Click 'c' to start game" , True, black)
     gameDisplay.blit(play,(102,500))
     pygame.display.update()
